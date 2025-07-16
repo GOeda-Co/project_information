@@ -24,6 +24,26 @@
 
 ![Not found](Diagram(latest).png)
 
+##Key features
+
+Users have a profile:
+![Not found](profile.jpg)
+
+The main page with all created decks:
+![Not found](decks.jpg)
+
+Users can view all created cards:
+![Not found](cards.jpg)
+
+Add new cards:
+![Not found](add_card.jpg)
+
+Overview all cards in the deck:
+![Not found](overview_cards.jpg)
+
+Study cards to learn words:
+![Not found](study_cards.jpg)
+
 ### 🔧 Backend
 
 - Developed in Go (Golang)
