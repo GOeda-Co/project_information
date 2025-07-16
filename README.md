@@ -78,9 +78,9 @@
 
 #### Documentation (4 points)
 - [X] Project overview and setup instructions (1 point)
-- [ ] Screenshots and GIFs of key features (1 point)
+- [X] Screenshots and GIFs of key features (1 point)
 - [X] API documentation (1 point)
-- [ ] Architecture diagrams and explanations (1 point)
+- [X] Architecture diagrams and explanations (1 point)
 
 #### Code Quality (2 points)
 - [ ] Consistent code style and formatting during CI/CD pipeline (1 point)
@@ -90,7 +90,7 @@
 - [ ] Localization for Russian (RU) and English (ENG) languages (2 points)
 - [X] Good UI/UX design (up to 3 points)
 - [ ] Integration with external APIs (fitness trackers, health devices) (up to 5 points)
-- [ ] Comprehensive error handling and user feedback (up to 2 points)
+- [X] Comprehensive error handling and user feedback (up to 2 points)
 - [X] Advanced animations and transitions (up to 3 points)
 - [ ] Widget implementation for native mobile elements (up to 2 points)
 
