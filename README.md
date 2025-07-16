@@ -86,10 +86,10 @@
 
 ### Bonus Features (up to 10 points)
 - [ ] Localization for Russian (RU) and English (ENG) languages (2 points)
-- [ ] Good UI/UX design (up to 3 points)
+- [X] Good UI/UX design (up to 3 points)
 - [ ] Integration with external APIs (fitness trackers, health devices) (up to 5 points)
 - [ ] Comprehensive error handling and user feedback (up to 2 points)
-- [ ] Advanced animations and transitions (up to 3 points)
+- [X] Advanced animations and transitions (up to 3 points)
 - [ ] Widget implementation for native mobile elements (up to 2 points)
 
 ---
