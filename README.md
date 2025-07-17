@@ -22,6 +22,9 @@
 
 **Repeatro** is a modern, open-source vocabulary learning platform inspired by Anki. It uses spaced repetition (SM2 algorithm) to help users memorize words more efficiently. The system is split into a microservice-based Go backend and a Flutter-based cross-platform frontend (web + mobile).
 
+#Presentation link:
+https://www.figma.com/deck/itCLoPXgMS4c6gWtNlkpkD/GoNFlutter_project_presentation?node-id=1-32&t=axClNxxHDzGnrPVT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
 ![Not found](Diagram(latest).png)
 
 ##Key features
